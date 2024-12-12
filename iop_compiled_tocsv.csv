@@ -1,4 +1,4 @@
-﻿year,season,dem pres support,rep pres support,likely turnout yes,likely turnout,partyid d,partyid r,second?
+﻿year,season,dem_pres_support,rep_pres_support,turnout_yes, turnout_no,partyid_d,partyid_r,second?
 2024,1,49,32,69,18,49,31,1
 2024,1,54,33,69,18,49,30,0
 2024,0,45,37,65,21,48,29,0
